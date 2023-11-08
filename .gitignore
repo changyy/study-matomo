@@ -1,0 +1,6 @@
+.swp
+*.swp
+*.*.swp
+
+php/.env
+.env
